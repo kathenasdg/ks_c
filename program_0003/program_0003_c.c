@@ -31,14 +31,14 @@ int main()
     // Declare integer length and set value to 0, an invalid value.
     int32_t length = 0;
 
-    // Accept only integers hreater than 0.
+    // Accept only integers greater than 0.
     while(width <= 0)
     {
         printf("Enter width: ");
         scanf("%d", &width);
     }   
 
-    // Accept only integers hreater than 0.
+    // Accept only integers greater than 0.
     while(length <= 0)
     {
         printf("Enter length: ");
