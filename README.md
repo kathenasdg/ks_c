@@ -1,4 +1,4 @@
-## Kathenas
+## Kathenas - C Language Programs
 
 This repositry contains a variety of test programs written in c.
 
